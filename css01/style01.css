@@ -1,0 +1,162 @@
+.body1{
+	background-color: black;
+	}
+
+
+.body2{
+background-image: url(images02/heibaibeijing.png);
+background-position: center;
+}
+	        /*This template css file was created by Xiaoxuan Ruan on 5/13/2020.*/
+/*---------------------------------------------------------------*/
+
+.earrr{
+/*background-color: green;*/
+width: 50%;
+margin-top: 205px;
+border-right: 60px;
+
+}
+
+.earrr img:hover{
+	transform:scale(1.3);
+	transition: transform 0.5s;
+}
+
+/*--------------------------------------------------------------*/
+
+.eyeee{
+/*background-color: green;*/
+width: 50%;
+margin-top: 205px;
+border-right: 60px;
+
+}
+
+.eyeee img:hover{
+	transform:scale(1.35);
+	transition: transform 0.5s;
+}
+
+/*---------------------------------------------------------------*/
+
+.button1 img:hover{
+    transform:scale(1.35);
+	transition: transform 0.5s;
+}
+
+
+
+.lmao{
+
+	display: flex;
+}
+
+
+
+/*---------ear.html---------------------------------------------------------*/
+
+.body3{
+	background-color: black;
+	/*display: flex;*/
+}
+
+.hang1{
+	display: flex;
+}
+
+.hang2{
+	display: flex;
+}
+
+
+audio{
+  height: 25px;
+  margin-top: 320px;
+  margin-left: 105px;
+}
+
+.sound1{
+	background-image: url(images02/rain.gif);
+	width: 513px;
+	height: 364px;
+}
+/* .sound1 .img-top{
+ 	display: none;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	z-index: 99;
+ }
+
+.sound1:hover .img-top{
+	display: inline;
+margin-top: 8px;
+margin-left: 7px;
+}
+*/
+
+
+/*a.lei:hover{
+	background-image: url("images01/rain.gif");
+}
+
+*/
+
+
+.sound2{
+	background-image: url(images02/waves.gif);
+	width: 513px;
+	height: 364px;
+}
+
+.sound3{
+	background-image: url(images02/huo.gif);
+	width: 513px;
+	height: 364px;
+}
+
+.sound4{
+	background-image: url(images02/cong.gif);
+	width: 501px;
+	height: 360px;
+}
+
+.sound5{
+	background-image: url(images02/bird.gif);
+	width: 501px;
+	height: 360px;
+}
+
+.sound6{
+	background-image: url(images02/leaves.gif);
+	width: 501px;
+	height: 360px;
+}
+
+.button2{
+	width:25px;
+	margin:5px;
+	opacity: 0.6;
+}
+
+/*------------------eye.html--------------------------------------------------*/
+
+.button3{
+	width:25px;
+	margin-left: 250px;
+	opacity: 0.6;
+}
+
+/*-----------------------videos-------------------------------------*/
+
+.videos{
+	display: flex;
+}
+
+.button4{
+	width:50px;
+	margin-left: 60px;
+	margin-top: 310px;
+	opacity: 0.6;
+}
